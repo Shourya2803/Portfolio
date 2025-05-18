@@ -33,7 +33,8 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="file:///C:/Users/LENOVO/OneDrive/Desktop/Shourya_Mittal.cv.pdf"
+                href="/Shourya_Mittal.cv.pdf"
+                download="Shourya_Mittal.cv.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV
